@@ -215,16 +215,3 @@ Wiki links,
 
 Before you ask, the only difference is the Archim 2 uses Trinamic drivers. This is setup up
 extremely similar to the Rambo board except no LCD adapter is needed.
-
-### Case
-
-Need a fancy Box for your fancy board?
-
-[Gnarly Rambo/Archim Case](https://www.thingiverse.com/thing:2778151)
-
-![!case](https://www.v1engineering.com/wp-content/uploads/2017/04/IMG_20180203_1734152.jpg){: width="300"}
-
-#### Dual End Stop
-
-[Information link](dual-endstops.md)
-
